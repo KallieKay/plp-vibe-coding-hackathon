@@ -7,7 +7,9 @@ Challenge: Build a mobile/web app that uses voice or photo input to help busines
 This app was coded with joy, creativity, and purpose using the latest AI-assisted and low-code tools to bring powerful ideas to life! The folliwing combination of tools were used:
 
 -Lovable.dev
+
 -Cursor AI
+
 -MGX 
 
 The following promts were used in Lovable.dev :
